@@ -16,13 +16,6 @@ Este repositorio contiene los anexos del trabajo de grado: el formato de consent
 - `anexos/B_reconocimiento_emocional/` Notebook de Google Colab con el sistema de reconocimiento facial de emociones basado en EfficientNetB0 entrenado sobre FER2013.
 - `anexos/C_laboratorio_learnr/` Tutorial interactivo en R Markdown que implementa las siete fases del modelo 7E para la enseñanza del ACP.
 
-## Cómo citar este repositorio
-
-Giraldo Cortés, M. J. (2026). *Secuencia didáctica ACP, IA y matemática emocional* [Repositorio de código y materiales]. GitHub. https://github.com/[USUARIO]/[NOMBRE-DEL-REPOSITORIO]
-
-## Licencia
-
-El código fuente se distribuye bajo licencia MIT. El contenido pedagógico (tutorial learnr, datasets simulados y documentación) se distribuye bajo licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
 
 ## Contacto
 
